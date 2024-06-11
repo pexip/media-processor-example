@@ -1,0 +1,18 @@
+.EffectSelector {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  margin: auto;
+  margin-top: 1.5em;
+  width: fit-content;
+}
+
+.LocalStreamVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
